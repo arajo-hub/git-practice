@@ -1,4 +1,4 @@
-judy commit
+judy commit branch1에서 수정
 <<<<<<< HEAD
 judy judy develop change
 =======
