@@ -1,3 +1,8 @@
 judy commit
+<<<<<<< HEAD
 judy judy develop
 judy judy checkout-point 변경
+=======
+judy judy develop 변경
+judy judy checkout-point
+>>>>>>> d88caa187f0c74664f50cc6c241bd454784ac80f
