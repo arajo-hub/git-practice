@@ -10,4 +10,4 @@ judy judy develop 변경
 >>>>>>> 8a86e4e2e1d4edc464fbc1f299c3344b82a00f22
 judy judy checkout-point
 >>>>>>> d88caa187f0c74664f50cc6c241bd454784ac80f
-추가추가추가
+추가추가추가 branch2에서 수정
