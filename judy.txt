@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 judy commit branch1에서 수정
 <<<<<<< HEAD
 judy judy develop change
@@ -26,3 +27,6 @@ test
 squash-test3
 >>>>>>> 1cc2fb3 (Test3)
 test
+=======
+judy commit
+>>>>>>> 65631f1cadbdc8344f01917ad8e2fd411273156a
