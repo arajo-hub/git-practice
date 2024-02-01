@@ -19,5 +19,10 @@ squash-test2
 
 squash-test3
 
+<<<<<<< HEAD
 
+test
+=======
+squash-test3
+>>>>>>> 1cc2fb3 (Test3)
 test
